@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AC74D121-636A-1000-8965-E9F44FECD23C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/IK/IK_Solver_TCP.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ARimag_TCP.cs" Line="82" Column="6" />
+      <File FileName="Assets/Scripts/IK/IK_Solver_TCP.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/TrackedImageInfoRuntimeMultipleManager.cs" Line="58" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ff3c093-be0b-40dd-9eb0-3a7a7aec7a68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

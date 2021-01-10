@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -339243815, guid: b98c6e83e15c99a4cba0fd320e536c2b, type: 3}
+  m_Name: KUKA_KR30_R2100
+  m_EditorClassIdentifier: 
+  modelName: KUKA KR30-R2100
+  modelPath: RobotSimModels/Models/Robots/KUKA_KR30_R2100
+  brand: 1
+  previewPic: {fileID: 2800000, guid: e6daadb1a29145c45af8e9f2a68eff2d, type: 3}
+  L:
+  - 0.575
+  - 0.175
+  - 0.89
+  - 0.05
+  - 1.035
+  - 0.185
+  - 0
+  - 0
+  - 0
+  - 0
+  axisLimits:
+  - {x: -185, y: 185}
+  - {x: -175, y: 60}
+  - {x: -120, y: 165}
+  - {x: -180, y: 180}
+  - {x: -125, y: 125}
+  - {x: -350, y: 350}
+  anglePerSec:
+  - 180
+  - 165
+  - 180
+  - 250
+  - 250
+  - 360
+  range: 0.54
+  home:
+  - 0
+  - -90
+  - 90
+  - 0
+  - 0
+  - 0
